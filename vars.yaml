@@ -1,0 +1,6 @@
+---
+alertmanager:
+  version: 0.16.1
+  ram: 2048
+  port: 9093
+  count: 1
